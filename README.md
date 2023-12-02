@@ -1,0 +1,2 @@
+# ComplexNetworksPandemia
+Pandemic simulation
